@@ -17,6 +17,26 @@ npm install
 pnpm install
 ```
 
+## Lint
+
+```bash
+npm run lint
+npm run lint:fix
+```
+
+## Type Check
+
+```bash
+npm run typecheck
+```
+
+## Unit Test
+
+```bash
+npm run test
+```
+
+
 ## Development Server
 
 Start the development server on http://localhost:3000
