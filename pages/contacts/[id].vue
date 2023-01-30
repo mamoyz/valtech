@@ -65,7 +65,7 @@ const router = useRouter()
 onMounted(() => {
   contactsStore.showContactViewer = false
   const contacts = contactsStore.contacts
-  const currentContact = contacts.filter((c) => {
+  const currentContact = contacts?.filter((c) => {
     return c.login.uuid === route.params.id
   })[0]
   if (currentContact) {
