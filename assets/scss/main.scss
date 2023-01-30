@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Lobster&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .container {
+        @apply max-w-7xl px-4 self-center mx-auto;
+    }
+    .font-lobster {
+        font-family: "Lobster", cursive;
+    }
+    a {
+        text-underline-offset: 2px;
+        text-decoration: underline;
+        text-decoration-color: --p-border-subdued;
+    }
+}
+
+* {
+    outline-offset: 3px;
+}

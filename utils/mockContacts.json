@@ -1,0 +1,170 @@
+[
+    {
+        "gender": "male",
+        "name": {
+            "title": "Mr",
+            "first": "Sjur",
+            "last": "Endal"
+        },
+        "location": {
+            "street": {
+                "number": 26,
+                "name": "Barliveien"
+            },
+            "city": "Viksjord",
+            "state": "Sogn og Fjordane",
+            "country": "Norway",
+            "postcode": "3184",
+            "coordinates": {
+                "latitude": "41.2089",
+                "longitude": "-32.7344"
+            },
+            "timezone": {
+                "offset": "+6:00",
+                "description": "Almaty, Dhaka, Colombo"
+            }
+        },
+        "email": "sjur.endal@example.com",
+        "login": {
+            "uuid": "d2c00ea0-ef19-445e-be42-e85437130352",
+            "username": "browndog912",
+            "password": "unique",
+            "salt": "47fKrv5C",
+            "md5": "3ea4d670ec20231cf76a11f6b4bb90d6",
+            "sha1": "00d7e1604e5d9f773ed524e8f389e8e2a1967baf",
+            "sha256": "5dc727eb02170fcf3c84ea41c805675fe7d33a3a5eda0b506fb8208d7fa047de"
+        },
+        "dob": {
+            "date": "1973-06-16T18:10:17.393Z",
+            "age": 49
+        },
+        "registered": {
+            "date": "2009-05-13T12:21:23.371Z",
+            "age": 13
+        },
+        "phone": "34120131",
+        "cell": "90823293",
+        "id": {
+            "name": "FN",
+            "value": "16067342724"
+        },
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/men/29.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/29.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/29.jpg"
+        },
+        "nat": "NO"
+    },
+    {
+        "gender": "male",
+        "name": {
+            "title": "Mr",
+            "first": "Quiliano",
+            "last": "Martins"
+        },
+        "location": {
+            "street": {
+                "number": 8617,
+                "name": "Rua Quinze de Novembro "
+            },
+            "city": "Teófilo Otoni",
+            "state": "Paraíba",
+            "country": "Brazil",
+            "postcode": 85072,
+            "coordinates": {
+                "latitude": "11.1473",
+                "longitude": "-150.8701"
+            },
+            "timezone": {
+                "offset": "+1:00",
+                "description": "Brussels, Copenhagen, Madrid, Paris"
+            }
+        },
+        "email": "quiliano.martins@example.com",
+        "login": {
+            "uuid": "d364e425-04c9-47d9-a8da-aa9f4a828ec6",
+            "username": "orangewolf801",
+            "password": "brucelee",
+            "salt": "NMOL9pQI",
+            "md5": "6401b621e8ca9cb8a538b113274c6a2d",
+            "sha1": "33191bf5fb748438df77ecd6c050da6837048bf3",
+            "sha256": "29c845b58348f33fc783dabfe3c9671cd12c35c8abb29097bea62a3a2a8a72e4"
+        },
+        "dob": {
+            "date": "1967-02-16T18:48:17.010Z",
+            "age": 55
+        },
+        "registered": {
+            "date": "2011-06-29T21:12:55.811Z",
+            "age": 11
+        },
+        "phone": "(42) 5602-4967",
+        "cell": "(42) 9126-4373",
+        "id": {
+            "name": "CPF",
+            "value": "762.506.127-97"
+        },
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/men/52.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/52.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/52.jpg"
+        },
+        "nat": "BR"
+    },
+    {
+        "gender": "female",
+        "name": {
+            "title": "Miss",
+            "first": "Surabhi",
+            "last": "Kaur"
+        },
+        "location": {
+            "street": {
+                "number": 5335,
+                "name": "Vellala St"
+            },
+            "city": "Motihari",
+            "state": "Uttarakhand",
+            "country": "India",
+            "postcode": 54814,
+            "coordinates": {
+                "latitude": "-7.2475",
+                "longitude": "8.6098"
+            },
+            "timezone": {
+                "offset": "+6:00",
+                "description": "Almaty, Dhaka, Colombo"
+            }
+        },
+        "email": "surabhi.kaur@example.com",
+        "login": {
+            "uuid": "749a037f-ab73-4e24-a75b-5ba380a14cfc",
+            "username": "yellowgorilla277",
+            "password": "celebrity",
+            "salt": "IF1IHzfK",
+            "md5": "cf87f2eebde31abb6f9c25f406a55441",
+            "sha1": "438ac1ea89cfd09b0c8249e38f161cab8f0b8069",
+            "sha256": "6c5a11cd06d0317a2cb9d34924a81fe35e5287844d5b2e582228468949814bf6"
+        },
+        "dob": {
+            "date": "1987-10-27T12:25:02.513Z",
+            "age": 35
+        },
+        "registered": {
+            "date": "2011-02-07T15:44:32.522Z",
+            "age": 11
+        },
+        "phone": "7610310600",
+        "cell": "7164883733",
+        "id": {
+            "name": "UIDAI",
+            "value": "999805079161"
+        },
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/women/39.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/women/39.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/women/39.jpg"
+        },
+        "nat": "IN"
+    }
+]
